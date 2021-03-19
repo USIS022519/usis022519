@@ -1,4 +1,4 @@
-### Console.log('Hellos World 👋'),
+### Console.log('Hellos World 👋');
 Bienvenido a mi perfil, mi nombre es Josué 
 Actualmente soy estudiante de ingenieria en sistemas 👋
 
