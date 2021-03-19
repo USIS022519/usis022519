@@ -1,4 +1,4 @@
-### Hola, soy un estudiante de ingenieria en sistemas 👋
+### Hola, bienvenido a mi perfil, mi nombre es Josué y soy estudiante de ingenieria en sistemas 👋
 
 <!--
 **USIS022519/usis022519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
