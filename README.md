@@ -1,4 +1,6 @@
-### Hola, bienvenido a mi perfil, mi nombre es Josué y soy estudiante de ingenieria en sistemas 👋
+### Console.log('Hellos World 👋'),
+Bienvenido a mi perfil, mi nombre es Josué 
+Actualmente soy estudiante de ingenieria en sistemas 👋
 
 <!--
 **USIS022519/usis022519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
